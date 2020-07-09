@@ -6,7 +6,5 @@ for (let index = 0; index < 2; index++) {
     basic.showArrow(ArrowNames.South)
     basic.pause(500)
     basic.showIcon(IconNames.Happy)
+    basic.pause(500)
 }
-basic.forever(function () {
-	
-})
